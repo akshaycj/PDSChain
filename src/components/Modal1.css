@@ -1,0 +1,34 @@
+.button {
+  width: 50%;
+  margin: auto;
+  position: absolute;
+  top: 150px;
+  left: 400px;
+}
+
+.paper {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 1px 15px 15px 15px;
+  color: white;
+  background: linear-gradient(
+    to left,
+    #40127c,
+    #551798,
+    #6c1bb5,
+    #841ed2,
+    #9e20f0
+  );
+}
+.line {
+  height: 2px;
+  width: 55px;
+  align-self: center;
+  background: linear-gradient(
+    to left,
+    #40127c,
+    #551798,
+    #6c1bb5,
+    #841ed2,
+    #9e20f0
+  );
+}
